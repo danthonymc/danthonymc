@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danthonymc but you can call me Darryl
-- 👀 I’m interested in building programs for data analytics
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in building web applications ans ios apps
+- 🌱 I’m currently learning Javascript and Python 
+- 💞️ I’m looking to collaborate on anything that will help me grow as a software developer
 d
 
 <!---
